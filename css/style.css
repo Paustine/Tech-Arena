@@ -1,0 +1,72 @@
+.photo.jpg{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	height: 300px;
+
+}
+
+.thin-blue boarder{
+	border-color: blue
+	border-width:5px;
+	border-style: solid;
+	border-radius: 20px;
+}
+
+.topnav{
+	background-color: black;
+	overflow: hidden;
+}
+
+.topnav a{
+	float: right;
+	color: #EA0B92;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	font-family: open sans;
+}
+
+.topnav a:hover{
+	background-color: white;
+	color: black;
+}
+
+
+.topnav a.active{
+	background-color: black
+	color:white;
+}
+
+.h1{
+	font-color:black;
+	font-family: open sans;
+	font-size: 20px;
+
+}
+
+.h2{
+	font-color:black;
+	font-family: open sans;
+	font-size: 30px;
+}
+
+.h3{
+	font-color:black;
+	font-family: open sans;
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
